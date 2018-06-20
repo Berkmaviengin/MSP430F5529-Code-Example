@@ -1,0 +1,1 @@
+"./HAL_SDCard.obj" "./ff.obj" "./hello.obj" "./mmc.obj" "./nokia_5110.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
